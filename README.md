@@ -12,7 +12,7 @@ A ideia foi pedir ao Deepseek que criasse uma simulação realista de um planeta
 
 ## 🚀 Resultados
 ### 🌌 Planeta X-927 "Nebulos"
-![Planeta Nebulos](https://ibb.co/JFSJmqdz)
+![Planeta Nebulos](https://creator.nightcafe.studio/creation/sXte452ifBepqJWup658?ru=ImnXzG26zGdMdvAdEcju9kXtYPv2)
 ---
 O planeta X-927, apelidado de "Nebulos" pelos colonizadores humanos, é um mundo pós-terra que orbita uma estrela anã vermelha. Ele é uma mistura intrigante de características de um planeta gasoso e um planeta rochoso, com uma atmosfera densa e tóxica, mas com ilhas flutuantes habitáveis. Apesar de ser tecnicamente habitável, Nebulos é um lugar hostil, onde a sobrevivência exige roupas especiais e constante vigilância.
 
@@ -101,7 +101,3 @@ O planeta X-927, apelidado de "Nebulos" pelos colonizadores humanos, é um mundo
     - A religião local gira em torno da "Grande Tempestade", uma entidade mística que controla o clima e deve ser aplacada com rituais e oferendas.
 
 Nebulos é um planeta fascinante, mas implacável. Sua beleza alienígena esconde perigos constantes, e a vida lá é uma batalha diária contra os elementos. Apesar disso, os colonizadores humanos perseveram, construindo uma nova civilização nas ilhas flutuantes deste mundo único.
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
