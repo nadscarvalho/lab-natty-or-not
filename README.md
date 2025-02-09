@@ -101,4 +101,6 @@ O planeta X-927, apelidado de "Nebulos" pelos colonizadores humanos, é um mundo
 
     - A religião local gira em torno da "Grande Tempestade", uma entidade mística que controla o clima e deve ser aplacada com rituais e oferendas.
 
+<img src="/img/v5bx3E0WYJ1B0RuL2POS--0--79g80.jpg">
+
 Nebulos é um planeta fascinante, mas implacável. Sua beleza alienígena esconde perigos constantes, e a vida lá é uma batalha diária contra os elementos. Apesar disso, os colonizadores humanos perseveram, construindo uma nova civilização nas ilhas flutuantes deste mundo único.
