@@ -1,5 +1,7 @@
 # 🪐 Vida pós-apocalipse: Planeta X-927 "Nebulos"
 
+<img src="/img/wQxcRKGn0DF7qkwqiTVb--0--xg8ds.jpg">
+
 ## 📒 Descrição
 Criar um novo planeta que seria habitado pelos humanos após o fim da Terra. O planeta deveria ser uma mistura de características dos planetas gasosos e algo de rochoso.
 
@@ -12,8 +14,7 @@ A ideia foi pedir ao Deepseek que criasse uma simulação realista de um planeta
 
 ## 🚀 Resultados
 ### 🌌 Planeta X-927 "Nebulos"
-![Planeta Nebulos](https://creator.nightcafe.studio/creation/sXte452ifBepqJWup658?ru=ImnXzG26zGdMdvAdEcju9kXtYPv2)
----
+<img src="/img/sXte452ifBepqJWup658--0--reqav.jpg">
 O planeta X-927, apelidado de "Nebulos" pelos colonizadores humanos, é um mundo pós-terra que orbita uma estrela anã vermelha. Ele é uma mistura intrigante de características de um planeta gasoso e um planeta rochoso, com uma atmosfera densa e tóxica, mas com ilhas flutuantes habitáveis. Apesar de ser tecnicamente habitável, Nebulos é um lugar hostil, onde a sobrevivência exige roupas especiais e constante vigilância.
 
 - Geografia:
